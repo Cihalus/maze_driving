@@ -8,6 +8,3 @@ This project includes a variety of algorithms that can be applied to solve maze 
 ## Goals
 - To analyze different maze driving algorithms.
 - To implement and test these algorithms in various scenarios.
-
-## License
-This project is licensed under the MIT License.
